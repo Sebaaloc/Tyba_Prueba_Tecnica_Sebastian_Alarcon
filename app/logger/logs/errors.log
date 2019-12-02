@@ -1,0 +1,136 @@
+{"errorCode":"NOT_FOUND","message":"Err: Producto no encontrado en API Catalogo Aval.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Producto no encontrado en API Catalogo Aval.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not allowed.","level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not allowed.","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"errorCode":"BUSINESS_ERROR","message":"Err: User not created in MongoDB.","level":"error"}
+{"errorCode":"BUSINESS_ERROR","message":"Err: User not created in MongoDB.","level":"error"}
+{"errorCode":"BUSINESS_ERROR","message":"Err: User not created in MongoDB.","level":"error"}
+{"errorCode":"BUSINESS_ERROR","message":"Err: User not created in MongoDB.","level":"error"}
+{"message":"Err: User not created in MongoDB.","level":"error"}
+{"message":"Err: User not created in MongoDB.","level":"error"}
+{"errorCode":"BUSINESS_ERROR","message":"Err: User not created in MongoDB.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not created in MongoDB.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not created in MongoDB.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: Collaborator not deleted in MongoDB.","level":"error"}
+{"level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: Collaborator not deleted in MongoDB.","level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not deleted in MongoDB because wasn't found.","level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found.","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User not found for logging out.","level":"error"}
+{"level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Restaurants not found.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User doesn't have any transactions.","level":"error"}
+{"level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not logged out maybe token expired.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: Collaborator not found.","level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not logged out maybe token expired.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not logged out maybe token expired.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not logged out maybe token expired.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not logged out maybe token expired.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not logged out maybe token expired.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User doesn't have any transactions.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not created in MongoDB or could already exist.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not created in MongoDB or could already exist.","level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"BAD_REQUEST","message":"Err: User not logged out maybe token expired.","level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"NO_AUTHORIZED","message":"Err: User can't acces this resource maybe token expired.","level":"error"}
+{"errorCode":"NOT_FOUND","message":"Err: User doesn't have any transactions.","level":"error"}
