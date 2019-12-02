@@ -43,5 +43,5 @@ GET http://localhost:3000/userCity/nombre_ciudad con encabezados token: ""
 
 # Consultar transacciones de usuario
 
-GET http://localhost:3000/getTransactions con encabezado token
+GET http://localhost:3000/getTransactions con encabezado token: ""
 
