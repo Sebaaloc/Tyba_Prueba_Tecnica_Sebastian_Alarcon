@@ -23,3 +23,25 @@ POST http://localhost:3000/user con cuerpo: {
 	"userName": "",
 	"password": ""
 }
+
+# Crear usuario
+
+POST http://localhost:3000/userSave con cuerpo {
+	"userName": "",
+	"password": ""
+}
+
+# Cerrar sesion
+
+POST http://localhost:3000/userLogOut con cuerpo {
+	"token": ""
+}
+
+# Consultar restaurantes por ciudad
+
+GET http://localhost:3000/userCity/nombre_ciudad con encabezados token: ""
+
+# Consultar transacciones de usuario
+
+GET http://localhost:3000/getTransactions con encabezado token
+
